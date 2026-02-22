@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bg_dark">#FF121218</color>
+    <color name="surface_dark">#FF1E1E2E</color>
+    <color name="primary">#FF6C63FF</color>
+    <color name="primary_dark">#FF5A52D5</color>
+    <color name="correct_green">#FF4CAF50</color>
+    <color name="wrong_red">#FFFF5252</color>
+    <color name="combo_gold">#FFFFC107</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FF9E9E9E</color>
+    <color name="card_bg">#FF1E1E2E</color>
 </resources>
